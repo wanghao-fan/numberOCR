@@ -41,7 +41,7 @@
     const image = ref(null);
     const isDrawing = ref(false);
     const penColor = ref("#ffffff");
-    const penWidth = ref(20);
+    const penWidth = ref(30);
     const backgroundColor = ref("#000000");
     const imageUrl = ref(null);
     let ctx;
